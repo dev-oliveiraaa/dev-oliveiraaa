@@ -1,16 +1,30 @@
-## Hi there 👋
+💻 Fullstack Developer
+🎓 Computer Engineering • ADS Technician
 
-<!--
-**dev-oliveiraaa/dev-oliveiraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚙️ Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,ts,react,nextjs,cs,mysql,postgres,docker,git" height="40" />
+</div>
+
+---
+
+## 🚀 Focus
+
+* Scalable web applications
+* Clean architecture & performance
+* Backend + frontend integration
+
+---
+
+## 🧠 Currently Learning
+
+* System design
+* Low-level concepts (C, memory, pointers)
+* Advanced backend patterns
+
+---
+
+> Minimal code. Maximum clarity.
