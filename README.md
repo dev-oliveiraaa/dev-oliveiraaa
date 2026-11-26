@@ -10,21 +10,3 @@
 </div>
 
 ---
-
-## 🚀 Focus
-
-* Scalable web applications
-* Clean architecture & performance
-* Backend + frontend integration
-
----
-
-## 🧠 Currently Learning
-
-* System design
-* Low-level concepts (C, memory, pointers)
-* Advanced backend patterns
-
----
-
-> Minimal code. Maximum clarity.
